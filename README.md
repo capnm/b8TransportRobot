@@ -7,11 +7,9 @@ A simple 3D model for testing Blender 2.8+ import / export isues with object-bon
 
 # Issues
 
-Please report bugs and / or suggested solutions on the 'Issues' tab.
-
-![glTF bug](https://raw.githubusercontent.com/capnm/b8TransportRobot/master/ouch.jpg)
-
 * [glTF tests](gltf/)
 
 * [Sketchfab tests](gltf/sketchfab)
 
+![glTF bug](https://raw.githubusercontent.com/capnm/b8TransportRobot/master/ouch.jpg)
+Please report bugs and / or suggested solutions on the 'Issues' tab.
