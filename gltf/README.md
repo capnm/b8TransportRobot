@@ -4,6 +4,8 @@
 
 [Sketchfab tests](sketchfab/)
 
+# Bugs
+
 ### [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) Bugs
 
 Last test with:
