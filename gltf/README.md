@@ -4,7 +4,12 @@
 
 [Sketchfab tests](sketchfab/)
 
-### Bugs
+### [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) Bugs
+
+Last test with:
+[v0.9.54](https://git.blender.org/gitweb/gitweb.cgi/blender-addons.git/commit/dcd48a616b220966163c4f15dfc133ea9de64469)
+/
+[Blender git](https://git.blender.org/gitweb/gitweb.cgi/blender.git/commit/283d96de1170f7c42a43bde4e30fdb438939978f)
 
 * Messed up transforms
 
