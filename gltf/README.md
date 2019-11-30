@@ -8,7 +8,7 @@
 
 [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) issues
 
-### Last test with glTF v1.1.13 + Blender v8.81 Release
+### Last test with glTF v1.1.13 + Blender v2.81 Release
 
 * Missing skeleton (replaced with parented empties???)
 
