@@ -6,7 +6,7 @@
 
 # Current bugs
 
-[glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) Bugs
+[glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) issues
 
 ### Last test with glTF v1.1.13 + Blender v8.81 Release
 
