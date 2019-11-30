@@ -11,12 +11,15 @@
 ### Last test with glTF v1.1.13 + Blender v8.81 Release
 
 * Missing skeleton (replaced with parented empties???)
-TODO: FBX works fine, find out why glTF do that or create an issue 
+
+TODO: FBX works fine, find out why glTF is doing that or create an issue 
 
 * Wrong auto smooth normals (leg shading)
+
 https://github.com/KhronosGroup/glTF-Blender-IO/issues/799
 
 * TODO: double-check if the bone parenting transforms are still unusable:
+
 https://github.com/KhronosGroup/glTF-Blender-IO/issues/805
 
 ----
